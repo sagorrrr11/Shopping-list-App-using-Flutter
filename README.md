@@ -1,3 +1,4 @@
+![Screenshot (52)](https://github.com/sagorrrr11/shopping_list_with_flutter/assets/130689825/2da7eae7-63a3-4e90-954e-ec4d4ba40e1a)
 # live_test2
 
 A new Flutter project.
